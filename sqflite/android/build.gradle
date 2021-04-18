@@ -42,5 +42,6 @@ android {
 }
 
 dependencies {
+    implementation 'io.requery:sqlite-android:3.35.1'
     testImplementation 'junit:junit:4.13.1'
 }
